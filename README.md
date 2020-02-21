@@ -16,6 +16,9 @@ Todo:
 - Alkenes and alkyne support.
 - Automatic IUPAC naming.
 
+Runs on nodejs with Electron.
+Built using p5js functions.
+
 
 
 ![PreviewImage](https://i.imgur.com/XD0lT29.png)

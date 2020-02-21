@@ -1,6 +1,9 @@
 # Visual-Graph for chemistry
 A simple p5js-based graph engine with organic chemistry rules.
 
+Coding timelapse
+https://www.youtube.com/watch?v=fIbAsolT0ME
+
 A school project made in 4 hours.
 
 Features:

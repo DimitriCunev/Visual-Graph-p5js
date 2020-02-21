@@ -1,4 +1,4 @@
-# Visual-Graph-Engine
+# Visual-Graph for chemistry
 A simple p5js-based graph engine with organic chemistry rules.
 
 A school project made in 4 hours.

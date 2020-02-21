@@ -8,5 +8,14 @@ Features:
 - Connect nodes using mouse
 - Live preview of hydrogen modification
 - Find largest carbon path ( chain )
+- Free camera movement.
+
+
+Todo:
+- Camera scaling
+- Alkenes and alkyne support.
+- Automatic IUPAC naming.
+
+
 
 ![PreviewImage](https://i.imgur.com/XD0lT29.png)

@@ -6,7 +6,7 @@ function createWindow () {
   let win = new BrowserWindow({
     width: 800,
     height: 600,
-    title: 'TODGE Engine',
+    title: 'Visual P5JS Graph',
     webPreferences: {
       nodeIntegration: true
     }
